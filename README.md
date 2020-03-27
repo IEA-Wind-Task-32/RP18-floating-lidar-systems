@@ -1,6 +1,6 @@
 This is a repository for the IEA Wind Recommended Practice 18 (RP 18) on Floating Lidar Systems.
 
-![](floating_lidar_photo_IWES.jpeg)
+![](floating_lidar_photo_IWES.jpg)
 
 RP18 was produced by members of [IEA Wind Task 32](http://community.ieawind.org/task32/) and incorporates the Offshore Wind Accelerator's _Recommended Practice for floating lidar systems_<sup>[1](#CTRM)</sup>, which is the result of a cooperation of an IEA Wind TCP Task 32 expert group and the Offshore Wind Accelerator initiative. 
 
