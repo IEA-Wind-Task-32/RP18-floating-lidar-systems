@@ -5,7 +5,7 @@ This is a repository for the IEA Wind Recommended Practice 18 (RP 18) on Floatin
 RP18 was produced by members of [IEA Wind Task 32](http://community.ieawind.org/task32/) and incorporates the Offshore Wind Accelerator's _Recommended Practice for floating lidar systems_<sup>[1](#CTRM)</sup>, which is the result of a cooperation of an IEA Wind TCP Task 32 expert group and the Offshore Wind Accelerator initiative. 
 
 # Version 1.0
-The first version of RP 18 was released in September 2017.
+The first version of RP 18 was released in September 2017. It is [included in this repository as the 1.0 release](./releases/tag/1.0).
 
 # How to provide feedback to the Recommended Practice
 There are two ways to provide feedback to RP18.
